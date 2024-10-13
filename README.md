@@ -17,6 +17,7 @@
 | 박준하 | 서버 관리, 파인튜닝 모델 | ㅋ |
 | 원종철 | RAG 모델 | ㅋ |
 </br>
+## 분석 및 모델링 과정
 
 ## 데이터 분석 언어 및 라이브러리
 ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>

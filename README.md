@@ -34,10 +34,10 @@
    - DELETE : 데이터 분석 파일 및 코드 파일을 삭제하였을 경우
    - FIX : 코드 에러를 해결했을 경우
    - REFACTOR : 파일 / 코드 구조화 시행했을 경우 
-</br>
+   </br>
 
-`커밋 메시지 / 풀리퀘스트 양식`</br>
-ex) `git commit -m "ADD main.py"`
+   `커밋 메시지 / 풀리퀘스트 양식`</br>
+    ex) `git commit -m "ADD main.py"`
 
 
 

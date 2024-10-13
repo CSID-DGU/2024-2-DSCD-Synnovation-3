@@ -35,6 +35,7 @@
    - FIX : 코드 에러를 해결했을 경우
    - REFACTOR : 파일 / 코드 구조화 시행했을 경우 
 </br>
+
 `커밋 메시지 / 풀리퀘스트 양식`</br>
 ex) `git commit -m "ADD main.py"`
 

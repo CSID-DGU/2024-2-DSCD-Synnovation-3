@@ -26,8 +26,8 @@
 </br>
 
 ## Github 운영방식
-- pull request / commit message 양식
-  '커밋 분류'
+- pull request / commit message 양식 </br>
+  `커밋 분류`
 
    - ADD : 데이터 분석 파일 및 코드 파일을 추가하였을 경우
    - UPDATE : 코드 일부 삭제, 변경할 경우

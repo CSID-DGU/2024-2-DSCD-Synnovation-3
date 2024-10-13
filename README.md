@@ -19,9 +19,10 @@
 </br>
 
 ## 데이터 분석 언어 및 라이브러리
-python
+![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp; ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) &nbsp;<br>
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) &nbsp; ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) &nbsp; 
+</br>
 
-전처리 및 분석, 시각화 모두 해당 언어를 사용합니다.
 ## Github 운영방식
 1개의 repository에서 목적별로 branch 나눠서 운영.
 ex) feature/analysis : 데이터 분석 브런치
@@ -41,3 +42,5 @@ REFACTOR : 파일 / 코드 구조화 시행했을 경우
 ex) 커밋분류 -> (변경사항)
 
 ex) ADD -> (파생 변수 및 연관분석 코드 추가)
+
+
